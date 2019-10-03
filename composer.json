@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Svitla_I_Bought_It",
+    "name": "OpenMageModuleFostering\/Svitla_I_Bought_It",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Svitla_I_Bought_It v 0.3.1",
     "authors": [
-    {
-        "name": "Svitla",
-        "email": "info@svitla.com"
-    }
-],
+        {
+            "name": "Svitla",
+            "email": "info@svitla.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
